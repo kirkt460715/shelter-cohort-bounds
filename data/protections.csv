@@ -1,0 +1,4 @@
+grid,site,window,priority,places,status,reserved,day
+G1,S1,D1AM,2,3,accepted,C11,2
+G2,S2,D1AM,1,3,protected,,2
+G3,S3,D1AM,1,4,accepted,C51,2

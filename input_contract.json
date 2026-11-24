@@ -1,0 +1,83 @@
+{
+  "tables": {
+    "roster": [
+      "entry",
+      "grid",
+      "source",
+      "cohort",
+      "members",
+      "assist",
+      "carer",
+      "intend"
+    ],
+    "links": [
+      "left",
+      "right",
+      "choice",
+      "strength",
+      "effective"
+    ],
+    "census": [
+      "grid",
+      "unknown_low",
+      "unknown_high",
+      "assisted_low",
+      "assisted_high",
+      "away"
+    ],
+    "shelter": [
+      "site",
+      "window",
+      "beds",
+      "accessible",
+      "care",
+      "pool"
+    ],
+    "routes": [
+      "grid",
+      "site",
+      "window",
+      "vehicle",
+      "seats",
+      "accessible",
+      "available",
+      "record_day"
+    ],
+    "protections": [
+      "grid",
+      "site",
+      "window",
+      "priority",
+      "places",
+      "status",
+      "reserved",
+      "day"
+    ]
+  },
+  "references": [
+    [
+      "links",
+      "left",
+      "roster",
+      "entry"
+    ],
+    [
+      "links",
+      "right",
+      "roster",
+      "entry"
+    ],
+    [
+      "routes",
+      "grid",
+      "census",
+      "grid"
+    ],
+    [
+      "routes",
+      "site",
+      "shelter",
+      "site"
+    ]
+  ]
+}

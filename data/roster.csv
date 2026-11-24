@@ -1,0 +1,7 @@
+entry,grid,source,cohort,members,assist,carer,intend
+A1,G1,school,C11,3,1,1,yes
+A2,G1,village,C21,3,1,1,yes
+A3,G2,school,C31,3,1,1,unknown
+A4,G2,village,C41,2,0,0,no
+A5,G3,village,C51,4,1,1,yes
+A6,G3,school,C61,2,0,0,unknown

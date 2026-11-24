@@ -1,0 +1,7 @@
+grid,site,window,vehicle,seats,accessible,available,record_day
+G1,S1,D1AM,B1,8,2,true,1
+G2,S2,D1AM,B1,8,2,true,1
+G1,S3,D1AM,B2,8,4,true,1
+G3,S3,D1AM,B2,8,4,true,1
+G1,S1,D1AM,B1,8,2,false,4
+G1,S1,D1PM,B3,10,3,true,4

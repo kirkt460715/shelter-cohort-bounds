@@ -1,0 +1,4 @@
+left,right,choice,strength,effective
+A1,A2,L1,possible,1
+A2,A3,L1,possible,1
+A1,A2,L1,confirmed,4
